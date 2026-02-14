@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://bitdefenderhelpdocs.readthedocs.io/en/latest/'
+html_baseurl = 'https://bitdefenderhelpcenter.readthedocs.io/en/latest/'
